@@ -14,6 +14,6 @@ Conheça o nosso instagram:
 https://www.instagram.com/ironpump.suplementos/
 ```
 
-# Autora 
+# Autora
 
 [<img src="https://avatars.githubusercontent.com/u/22267341?v=4" width=115><br><sub>Thainá de Souza</sub>](https://github.com/ThainazZ)
